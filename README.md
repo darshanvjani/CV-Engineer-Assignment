@@ -18,7 +18,7 @@ once all the necessary packages are install ,
 
 2) `cd ./to the path of repository in your local machine.`
 
-3) `pythob main.py`
+3) `python main.py`
 
 4) and VOILA....😃
 
